@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZakRmdn
-- 👀 I’m interested in Networking, Sysad, Programing, Webdev,Cyber Security
-- 🌱 I’m currently learning Python Program Languange, HTML, etc
+- 👋 Hi, I’m @zaxrmdn
+- 👀 I’m interested in Sysadmin, Devops, Cloud Engginering, and IT infrastrukture
+- 🌱 I’m currently learning Ansible automation
 
 <!---
 ZakRmdn/ZakRmdn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
