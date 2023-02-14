@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaxrmdn
-- 👀 I’m interested in Sysadmin, Devops, Cloud Engginering, and IT infrastrukture
+- 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
 - 🌱 I’m currently learning Ansible automation
 
 <!---
