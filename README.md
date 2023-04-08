@@ -48,6 +48,8 @@
 ░ ░ ░ ░ ░ ░   ▒   ░    ░   ░░   ░░      ░   ░ ░  ░   ░   ░ ░ 
   ░ ░         ░  ░░    ░    ░           ░     ░            ░ 
 ░
+
+![Gambar]!(https://media.tenor.com/FVETS_E_BXoAAAAC/lycoris-recoil-chisato-nishikigi.gif)
 ```
 ---
 <!---
