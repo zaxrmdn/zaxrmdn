@@ -1,3 +1,5 @@
+# Profile
+
 <div id="header" align="center">
   <img src="https://i.imgur.com/MvMxQ1a.gif" width="200"/>
 </div>
@@ -12,12 +14,17 @@
   </a>
 </div>
 
+<div>
+</div>
 
+## 👨‍🦱 About Me
 - 👋 Hi, I’m @zaxrmdn
 - 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
 - 🌱 I’m currently learning Ansible automation
 
 ---
+
+## 🔥 My Status
 
 <div id="stats">
   <a>
