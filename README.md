@@ -1,12 +1,12 @@
 <div id="stats">
   <a>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=zaxrmdn&theme=dark&background=000000"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaxrmdn"/>
   </a>
   
 </div>
 <div id="stats2">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=compact&theme=vision-friendly-dark"/>
+    <https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn"/>
   </a>
 </div>
 
