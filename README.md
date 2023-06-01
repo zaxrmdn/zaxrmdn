@@ -28,7 +28,7 @@
 
 <div id="stats">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=zaxrmdn&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=donut-vertical"/>
   </a>
   
 </div>
