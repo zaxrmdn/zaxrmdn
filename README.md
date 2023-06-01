@@ -28,13 +28,13 @@
 
 <div id="stats">
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaxrmdn"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=zaxrmdn&show_icons=true"/>
   </a>
   
 </div>
 <div id="stats2">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=zaxrmdn&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=donut"/>
   </a>
 </div>
 
