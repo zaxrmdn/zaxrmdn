@@ -34,7 +34,7 @@
 </div>
 <div id="stats2">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=donut"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radiant"/>
   </a>
 </div>
 
