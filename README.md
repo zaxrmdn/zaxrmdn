@@ -2,8 +2,8 @@
   <a>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=zaxrmdn&theme=dark&background=000000"/>
   </a>
-  <a href="twittercom/@zaxrmdn">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=compact&theme=vision-friendly-dark"/>
   </a>
 </div>
 
