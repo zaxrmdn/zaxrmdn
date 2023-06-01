@@ -1,11 +1,13 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/MvMxQ1a.gif" width="300"/>
 </div>
+
 ---
 - 👋 Hi, I’m @zaxrmdn
 - 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
 - 🌱 I’m currently learning Ansible automation
-- 
+
+---
 <div id="badges">
   <a align=center href="https://www.linkedin.com/in/zakaria-ramadan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +16,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ---
+
 <div id="stats">
   <a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaxrmdn"/>
