@@ -1,5 +1,14 @@
 # Profile
 
+
+## 👨‍🦱 About Me
+- 👋 Hi, I’m @zaxrmdn
+- 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
+- 🌱 I’m currently learning Ansible automation
+
+<div>
+</div>
+
 <div id="header" align="center">
   <img src="https://i.imgur.com/MvMxQ1a.gif" width="200"/>
 </div>
@@ -17,11 +26,6 @@
 <div>
 </div>
 
-## 👨‍🦱 About Me
-- 👋 Hi, I’m @zaxrmdn
-- 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
-- 🌱 I’m currently learning Ansible automation
-
 ---
 
 ## 🔥 My Status
@@ -37,6 +41,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=donut"/>
   </a>
 </div>
+
 
 ---
 <!---
