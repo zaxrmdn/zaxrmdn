@@ -12,7 +12,6 @@
   </a>
 </div>
 
----
 
 - 👋 Hi, I’m @zaxrmdn
 - 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
