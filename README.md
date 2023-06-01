@@ -1,4 +1,12 @@
-https://github-readme-streak-stats.herokuapp.com/?user=zaxrmdn
+<div id="stats">
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaxrmdn"/>
+  </a>
+  <a href="twittercom/@zaxrmdn">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 ---
 - 👋 Hi, I’m @zaxrmdn
