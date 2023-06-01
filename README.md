@@ -1,5 +1,5 @@
 <center><div id="header" align="center">
-  <img src="[https://i.imgur.com/MvMxQ1a.gif" width="100"/>
+  <img src="https://i.imgur.com/MvMxQ1a.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/zakaria-ramadan/">
