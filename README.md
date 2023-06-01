@@ -28,13 +28,13 @@
 
 <div id="stats">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=donut-vertical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=zaxrmdn&show_icons=true&theme=tokyonight "/>
   </a>
   
 </div>
 <div id="stats2">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=zaxrmdn&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=donut-vertical"/>
   </a>
 </div>
 
