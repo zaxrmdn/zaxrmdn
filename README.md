@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/MvMxQ1a.gif" width="300"/>
 </div>
+---
+- 👋 Hi, I’m @zaxrmdn
+- 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
+- 🌱 I’m currently learning Ansible automation
+- 
 <div id="badges">
   <a align=center href="https://www.linkedin.com/in/zakaria-ramadan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,10 +27,6 @@
   </a>
 </div>
 
----
-- 👋 Hi, I’m @zaxrmdn
-- 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
-- 🌱 I’m currently learning Ansible automation
 ---
 <!---
 ZakRmdn/ZakRmdn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
