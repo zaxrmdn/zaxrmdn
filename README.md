@@ -1,6 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zaxrmdn)](https://git.io/streak-stats)
----
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
+---
 - 👋 Hi, I’m @zaxrmdn
 - 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
 - 🌱 I’m currently learning Ansible automation
