@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/MvMxQ1a.gif" width="200"/>
 </div>
+
 ---
+
 <div id="badges" align="center">
   <a align=center href="https://www.linkedin.com/in/zakaria-ramadan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ---
+
 - 👋 Hi, I’m @zaxrmdn
 - 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
 - 🌱 I’m currently learning Ansible automation
