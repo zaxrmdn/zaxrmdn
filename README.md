@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/MvMxQ1a.gif" width="200"/>
 </div>
 
----
 
 <div id="badges" align="center">
   <a align=center href="https://www.linkedin.com/in/zakaria-ramadan/">
