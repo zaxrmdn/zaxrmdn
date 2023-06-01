@@ -2,11 +2,13 @@
   <a>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=zaxrmdn&theme=dark&background=000000"/>
   </a>
+  
+</div>
+<div id="stats2">
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=compact&theme=vision-friendly-dark"/>
   </a>
 </div>
-
 
 ---
 - 👋 Hi, I’m @zaxrmdn
