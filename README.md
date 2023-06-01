@@ -6,7 +6,7 @@
 </div>
 <div id="stats2">
   <a>
-    <https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn"/>
   </a>
 </div>
 
