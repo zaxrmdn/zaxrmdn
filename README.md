@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍🦱 About Me
 - 👋 Hi, I’m @zaxrmdn
 - 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
-- 🌱 I’m currently learning Ansible automation
+- 🌱 I’m currently learning Openstack
 
 <div>
 </div>
