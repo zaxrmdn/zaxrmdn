@@ -5,7 +5,6 @@
 
 <div id="stats">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=zaxrmdn&show_icons=true&theme=tokyonight"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaxrmdn&layout=donut"/>
   </a>
 
@@ -20,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍🦱 About Me
 - 👋 Hi, I’m @zaxrmdn
 - 👀 I’m interested in Sysadmin, Devops, Cloud Engginer, and IT infrastrukture
-- 🌱 I’m currently learning Openstack
 
 <div>
 </div>
